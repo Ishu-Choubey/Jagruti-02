@@ -1,6 +1,6 @@
 ## About
-
-- _**Sophomore at Vellore Institute of Technology, Vellore.**_
+<h1 align="center">Hey Guys👋<br>I'm Jagruti Mahapatra!!</h1>
+<h3 align="center">Sophomore at Vellore Institute of Technology, Vellore.</h3>
 
 ## Tech Stack
 
